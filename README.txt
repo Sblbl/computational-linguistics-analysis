@@ -1,5 +1,5 @@
 ---------------------------------------
-PROGETTO LC - 603574 Marta Fioravanti
+PROGETTO LC Marta Fioravanti
 ---------------------------------------
 
 Per lanciare prog_1.py:
